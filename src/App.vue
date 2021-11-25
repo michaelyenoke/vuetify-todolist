@@ -5,7 +5,7 @@
         <v-list-item-content>
           <v-list-item-title class="text-h6"> Wish List </v-list-item-title>
           <v-list-item-subtitle>
-            Write and Make It Happen!
+            Gakki Kawai
           </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
